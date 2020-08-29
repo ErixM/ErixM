@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### spotify playing
-[![Spotify](https://novatorem-3fnv9odfy.vercel.app/api/spotify)](https://open.spotify.com/user/xhesi12)
+[<img src="https://novatorem-3fnv9odfy.vercel.app/api/spotify-playing)" alt="codeSTACKr Spotify Playing" width="350" />]
 <!--
 **ErixM/ErixM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
