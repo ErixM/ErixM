@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### spotify playing
-[![Spotify](spotify-playing-henna.vercel.app/api/spotify-playing)](https://open.spotify.com/user/xhesi12)
+[![Spotify](https://erixm.vercel.app/api/spotify)](https://open.spotify.com/user/xhesi12)
 <!--
 **ErixM/ErixM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
