@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Spotify](https://erixm.vercel.app/api/spotify)](https://open.spotify.com/user/xhesi12)
+
+### Spotify Playing 🎧
+[<img src="https://erixm.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/xhesi12)
+
 <!--
 **ErixM/ErixM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
