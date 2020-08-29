@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### spotify playing
+[![Spotify](https://novatorem-3fnv9odfy.vercel.app/)](https://open.spotify.com/user/USER_NAME)
 <!--
 **ErixM/ErixM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
